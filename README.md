@@ -1,10 +1,10 @@
-Legal Intake Experiment
+## Legal Intake Experiment
 Automated pipeline for legal intake, case categorization, consultation scheduling, etc. Meant to be used as an aid for legal professionals.
 
 [![Legal AI Assistant Demo](URL_TO_YOUR_SCREENSHOT)](https://www.loom.com/embed/8aa4ba1000b341c2ad8e7e52c80c04fb?sid=e7efba9e-42ac-4399-bbcc-3c5799a4ef4f)
 
-Legal Software Disclaimer
-This software, found under this repository and licensed under the MIT license, is an experimental project and is NOT a legal advice tool. It is not intended to be used as a source of legal advice or as a substitute for professional legal counsel.
+## Legal Software Disclaimer
+This software, found under this repository and licensed under the Apache 2.0 license, is an experimental project and is NOT a legal advice tool. It is not intended to be used as a source of legal advice or as a substitute for professional legal counsel.
 
 The software is designed to test artificial intelligence's ability to perform client intake, log consultation details, and offer preliminary categorization of legal issues. However, it is important to note that this software has NOT been vetted, validated, or approved by any legal regulatory body or authority.
 
@@ -16,5 +16,5 @@ By using this software, you acknowledge and agree that you understand this discl
 
 This disclaimer may be updated from time to time, and it is the responsibility of the user to review and comply with the current version of the disclaimer.
 
-Usage
+## Usage
 It's straightforward. Launch chat.py and it will guide you through the entire process. All interactions will be saved to logs/.
