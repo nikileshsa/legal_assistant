@@ -1,7 +1,7 @@
 Legal Intake Experiment
 Automated pipeline for legal intake, case categorization, consultation scheduling, etc. Meant to be used as an aid for legal professionals.
 
-[![Video Thumbnail](URL_TO_YOUR_SCREENSHOT)](https://www.loom.com/embed/8aa4ba1000b341c2ad8e7e52c80c04fb?sid=e7efba9e-42ac-4399-bbcc-3c5799a4ef4f)
+[![Legal AI Assistant Demo](URL_TO_YOUR_SCREENSHOT)](https://www.loom.com/embed/8aa4ba1000b341c2ad8e7e52c80c04fb?sid=e7efba9e-42ac-4399-bbcc-3c5799a4ef4f)
 
 Legal Software Disclaimer
 This software, found under this repository and licensed under the MIT license, is an experimental project and is NOT a legal advice tool. It is not intended to be used as a source of legal advice or as a substitute for professional legal counsel.
